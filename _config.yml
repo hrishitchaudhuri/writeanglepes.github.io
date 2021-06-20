@@ -182,4 +182,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-yat
