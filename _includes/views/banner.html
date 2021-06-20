@@ -65,10 +65,13 @@
         {%- else -%}
 
           <div class="page-banner-default">
-            <h1 class="page-banner-heading" style="font-family: 'Roboto', sans-serif;">
+            <h1 class="page-banner-heading" style="font-family: 'Roboto', 'Times New Roman', sans-serif;font-stretch: expanded;font-weight: 900;"">
               {{ heading | default: page.title | escape }}
             </h1>
-            <h2 class="page-banner-subheading">
+            <h2 class="page-banner-subheading" style="
+            font-family: 'Roboto', 'Times New Roman', sans-serif;
+            font-style: oblique;
+            font-weight: 100;">
               {{ subheading | default: page.subtitle | escape }}
             </h2>
           </div>
