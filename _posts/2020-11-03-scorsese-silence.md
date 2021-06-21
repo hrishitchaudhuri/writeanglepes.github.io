@@ -1,0 +1,23 @@
+---
+layout: post
+title: ‘Silence’ - No Sound, No Fury?
+subtitle: by Hrishit Chaudhuri
+categories: Reviews
+tags: [ movies ]
+---
+
+At the heart of every great Martin Scorsese movie is pride. It is a shared piece of mortality that exists within _The Departed_’s Frank Costello, within _The Wolf of Wall Street_'s Jordan Belfort, within _GoodFellas_’ Henry Hill. In all these movies, pride clouds judgment and is ultimately the cause of their downfalls. _Silence_ does not think of pride this way: and that is its power. 
+
+Based on Shūsaku Endō’s 1966 novel _Chinmoku_, the story is set in medieval Japan — specifically, 1639, near the start of Sakoku in the Tokugawa shogunate. In this age, Japan is isolationist and solitary. The government at Edo does not care for the influx of European missionaries, viewed as a pollution to the local cultures and religion. They have persecuted and driven out most of the Europeans and the few converts who remain are forced to hide away their crucifixes out of fear for the Inquisitor. 
+
+One of these persecuted priests is Father Ferreira (Liam Neeson), a Portuguese Jesuit, who has reportedly apostatized before the Japanese — that is, renounced his faith. The news reaches his proteges, the Fathers Garupe (Adam Driver) and Rodrigues (Andrew Garfield), who beg of their superior, Father Valignano (Ciarán Hinds), that they be granted the mission to search for him. In these opening scenes, aided by Rodrigo Prieto’s spectacular cinematography, Scorsese sets up the quest in the manner the priests view it: not merely a search for a mentor, but a quest to save God himself. 
+
+Here, the narrative shifts to Rodrigues. We walk with him and his companion through the hidden glades and islands of Japan, encountering communities of hidden Christians. We watch how the Japanese test for the presence of Christianity: villagers are forced to trample upon the face of Christ. The fumie on which Christ’s image is carved is vital to the story. Again and again, Rodrigues finds himself coming in contact with it, asked to apostatize, to renounce his faith by stepping on it. 
+
+The weight of the story is enabled by the presence of Kichijiro (Yôsuke Kubozuka), a fisherman and an alcoholic who acts as guide to the priests, only to betray them, over and over. He reeks of sin: he steps on the fumie many times, he acts against God to save himself over the lives of others, he leaves his family to burn at the stake. And yet, over and over again, he asks for repentance from Rodrigues. To Father Rodrigues, he is the Judas Iscariot sent to test his suffering. 
+
+_Silence_ is long and slow and monumental. It wants you to wonder only one thing: will Father Rodrigues apostatize? The Inquisitor, Inoue (Issei Ogata), is willing to take any measure to gain the repudiation of faith from the mouth of a priest — after all, as he explains, a tree will not grow if the roots are cut. Inoue does not torture him directly: he engages him in discussions of theology, and he forces him to listen to the cries of the Japanese Christians who he tortures physically. Father Rodrigues does not mind physical pain — it allows him to compare himself to Christ. Instead, he is forced to witness the pain of others. In these moments, where the doctrines he has studied have failed him, he turns to God for answers and God is silent. 
+
+Where _Silence_ exceeds other similar movies is in its treatment of the European missionary. This is not Joseph Conrad writing. Rodrigues, whose monologue is our guiding narrative throughout the movie, thinks of the Japanese as a people in need of salvation, and it is his divine quest to save them. The movie continuously attacks this understanding of religion with subtle and nuanced dialogue. It puts heart and soul into understanding the Japanese point-of-view, with an emphasis on self-preservation found previously in _The Age of Innocence_. The two movies are more similar than you think. 
+
+This is a film about suffering and it is about pride. The complexity of the movie is its refusal to condone any person, any action, any thought or ideology. It forces you to reckon with both the oppression of the government and the colonialism of the Jesuits without identifying with either. You aren’t meant to identify, you’re meant to watch. It doesn’t require you to be familiar with Christianity nor the history of medieval Japan, only with your own nature. This is a film that, like Isao Takahata’s _The Tale of the Princess Kaguya_, has taken a very long time to make. And like that film, it no longer cares whether it is likable or not. _Silence_ is about the self: it deserves to be experienced and haunted by, not liked or disliked. 
