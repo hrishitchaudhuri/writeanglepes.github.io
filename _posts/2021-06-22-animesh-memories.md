@@ -2,7 +2,7 @@
 layout: post
 title: Memories
 subtitle: by Animesh ND
-categories: Short Stories
+categories: "Short Stories"
 tags: []
 ---
 “Memories are a funny thing, aren’t they doc?”. The man sat smiling, staring into his notepad.
