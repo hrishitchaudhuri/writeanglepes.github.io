@@ -6,26 +6,25 @@ categories: "Poems"
 tags: []
 ---
 
-That perfect moment
-That ideal setup on mind
-But you know it’s not easy
-A hard wait is certain.
+That perfect moment\n
+That ideal setup on mind\n
+But you know it’s not easy\n
+A hard wait is certain.\n
 
 Even so, you buckle up for every instant
 
-Hoping it’s your day
-Failures are inevitable
-Every fall, every dip, every slip
-You grow more anxious and ruffled
+Hoping it’s your day\n
+Failures are inevitable\n
+Every fall, every dip, every slip\n
+You grow more anxious and ruffled\n
 
-Indolence sets in.
+Indolence sets in.\n
 
-Nevertheless, without all of these
-How will you ever better yourself
+Nevertheless, without all of these\n
+How will you ever better yourself\n
 
-Just so you know, all those wretched portions of you
+Just so you know, all those wretched portions of you\n
+Are carved to gold in that suffering\n
 
-Are carved to gold in that suffering
-
-So fine and pure, you rise again
-Well enough to know, you’re on shore.
+So fine and pure, you rise again\n
+Well enough to know, you’re on shore.\n
